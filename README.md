@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chetana Patil
+# 👋 Hi, I'm Nikita Mali
 
 🎓 MCA Student | Aspiring Data Analyst
 
