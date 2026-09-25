@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Chetana Patil
 
-<!--
-**NikitaMali9404/NikitaMali9404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+## About Me
+- 📊 Interested in Data Analytics & Data Science
+- 💻 Learning Python, SQL, Excel & Power BI
+- 🌱 Always learning and improving my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- Data Analysis
+- Git & GitHub
